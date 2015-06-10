@@ -1,3 +1,5 @@
 erstes Dokument
 
-KONFLIKT - master Anpassung 
+KONFLIKT - master Anpassung erstes Dokument
+
++ KONFLIKT - Anpassung in myFix
